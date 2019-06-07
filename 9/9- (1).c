@@ -1,6 +1,7 @@
 // 2015111888 식품생명공학과 장용석
 // 문제 1번
 #include <stdio.h>
+
 int num = 0;
 void check(void);
 int main()
